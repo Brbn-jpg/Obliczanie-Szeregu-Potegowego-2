@@ -1,0 +1,89 @@
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+C:\Users\student\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+F:\semestr 2\programowanie\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.ProjektNr1_Kuźnicki_61961.resources
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.ProjektNr1_Kuźnicki_61961.resources
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\Szkola\Semestr2\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.ProjektNr1_Kuźnicki_61961.resources
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+C:\Users\legoo\Desktop\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.ProjektNr1_Kuźnicki_61961.resources
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\Szkola\Semestr2\projekt1\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe.config
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\bin\Debug\ProjektNr1_Kuźnicki_61961.pdb
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.AssemblyReference.cache
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.SuggestedBindingRedirects.cache
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.KokpitProjektuNr1.resources
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.LaboratoriumNr1.resources
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.ProjektNr1_Kuźnicki_61961.resources
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.Properties.Resources.resources
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.GenerateResource.cache
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.csproj.CoreCompileInputs.cache
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.exe
+E:\semestr 2\programowanie\skonczony\ProjektNr1_Kuźnicki_61961\obj\Debug\ProjektNr1_Kuźnicki_61961.pdb
